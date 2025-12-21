@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there! 👾
 
-<!--
-**elpanayurich/elpanayurich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Uriel**, an almost graduated student in **Telecommunications Engineering** from Madrid. I like giving life to random projects that suddenly pop out in my mind.
 
-Here are some ideas to get you started:
+### Current Role
+I’m currently working as an **intern at Ericsson**, focused on:
+* **CI/CD & Automation:** Learning and implementing workflows with **Jenkins, Spinnaker, Docker, Helm** and **K8s** (and of course **Git**).
+* **AI-Powered Dev:** I use tools like **kiro-cli** and **gemini-cli** to make coding, reviewing, and testing much more efficient and streamlined.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coding experience
+* **Daily Basis:** `Python`, `Bash`, `JavaScript`, `MATLAB`, `Groovy`.
+* **Also Experience with:** `C`, `C++`, `Pascal`, `Assembly`.
+
+### Projects
+You will find some of my personal projects in my profile — as well as my **Final Year Project (TFG)**, which is currently under development.
+
+---
+
+# Cool facts about me!
+
+* I like gaming
+* I play the piano and the guitar
+* I love traveling the world with my girlfriend
+* I like cats
+---
+
+### Contact me
+If you want to reach out, feel free to contact me through my **[Instagram link](https://www.instagram.com/yurich_ok/)**.
+
+*Happy Helming!*
