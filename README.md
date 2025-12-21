@@ -20,7 +20,6 @@ You will find some of my personal projects in my profile — as well as my **Fin
 * I play the piano and the guitar
 * I love traveling the world with my girlfriend
 * I like cats
----
 
 ### Contact me
 If you want to reach out, feel free to contact me through my **[Instagram link](https://www.instagram.com/yurich_ok/)**.
