@@ -18,7 +18,7 @@ You will find some of my personal projects in my profile — as well as my **Fin
 
 * I like gaming
 * I play the piano and the guitar
-* I love traveling the world with my girlfriend
+* I love traveling around the world with my girlfriend
 * I like cats
 
 ### Contact me
