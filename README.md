@@ -14,9 +14,7 @@ I’m currently working as an **intern at Ericsson**, focused on:
 ### Projects
 You will find some of my personal projects in my profile — as well as my **Final Year Project (TFG)**, which is currently under development.
 
----
-
-# Cool facts about me!
+### Cool facts about me!
 
 * I like gaming
 * I play the piano and the guitar
