@@ -17,7 +17,7 @@ I’m currently working as an **intern at Ericsson**, focused on **CI/CD & Autom
 
 # Ethical hacking roadmap
 * Advanced Bash-Scripting Guide (first 6 chapters).
-* Hack4u - "Introducción a Linux"
+* Hack4u - "Introducción a Linux" [Certificate Here](hack4u-linux-introduction-cert.jpg)
 
 ### Cool facts about me!
 
