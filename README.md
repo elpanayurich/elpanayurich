@@ -13,7 +13,7 @@ I’m currently working as an **intern at Ericsson**, focused on **CI/CD & Autom
 * You will find some of my personal projects in my profile — as well as my **Final Year Project (TFG)**.
 * Currently working on learning coding applied to real circuits with an ESP32, as well as training my overall skills with online courses. Trying to be up to date with the latest news on AI usage too and experimenting a lot.
 * Working on getting a good competence in K8s and microservice architecture.
-* Also as a side project I'm learning some ethical hacking here I will be updating my roadmap.
+* Also as a side project I'm learning some ethical hacking and here I will be updating my roadmap.
 
 ### Ethical hacking roadmap
 * Advanced Bash-Scripting Guide (first 6 chapters)
